@@ -4,7 +4,7 @@
 
 <ul>
   <li> 👨‍💻 ┇ Cursando Sistemas de Informação;</li>
-  <li> Treinee consulting Tech risk at Ernest & Young (EY);</li>
+  <li> Consultant Tech risk at Ernest & Young (EY);</li>
 </ul>
 
  <a href="https://www.linkedin.com/in/gustavo-munhoz-b48a58207/"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
